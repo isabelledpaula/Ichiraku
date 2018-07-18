@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7a809</color>
+    <color name="colorPrimaryDark">#ec970f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="azulzinho">#4fc3f7</color>
+    <color name="branquino_transparente">#66fffcfc</color>
+
+    <color name= "pretinho_desbotado">#32000000</color>
+</resources>

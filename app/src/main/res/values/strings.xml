@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ramem Ichiraku</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="validacao">Todos os campos são obrigatórios.</string>
+    <string name="novo_cardapio_nome">Nome do prato</string>
+    <string name="novo_cardapio_descricao">Descrição do prato</string>
+    <string name="novo_cardapio_preco">Preço</string>
+    <string name="novo_cardapio_img">URL da foto</string>
+</resources>
